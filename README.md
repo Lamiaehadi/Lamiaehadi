@@ -20,7 +20,7 @@
 
 * 🔭 **Focus:** Autonomous mobile robots, multi-robot systems & fleet management
 
-* 🌱 **Currently learning:** Advanced ROS2, Computer Vision & Deep Learning
+* 🌱 **Currently learning:** Advanced ROS2, RTOS, Computer Vision & Fuzzy Logic
 
 * 🤖 **Interests:** SLAM, Navigation, Embedded AI & Human-Robot Interaction
 
@@ -52,7 +52,7 @@
 ### 🧠 AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### ⚡ Embedded Systems
@@ -78,17 +78,6 @@
 
 <br/>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lamiaehadi&theme=radical&hide_border=true&background=0d1117&stroke=E91E63&ring=9C27B0&fire=E91E63&currStreakLabel=ffffff" width="60%"/>
-
-</div>
-
-<br/>
-
 ## 🚀 Featured Projects
 
 ### 💖 Project Highlights
@@ -97,7 +86,7 @@
 |---------|-------------|--------------|
 | 🤖 **[ROS2 Robotics Workspace](https://github.com/Lamiaehadi/ros2_robotics)** | Fleet management, custom action interfaces & robot simulation | `ROS2` `Python` `URDF` `Gazebo` |
 | 📱 **[Android Robot Control](https://github.com/Lamiaehadi/android-robot-control)** | Cross-platform robotic fleet management app | `Java` `Bluetooth` `WiFi` `Android` |
-| 🔧 **6-DOF Arm Kinematics** | Forward/inverse kinematics with DH parameters | `Kinematics` `Robotics` |
+| 🔧 **3-DOF Arm Kinematics** | Forward/inverse kinematics with DH parameters | `Kinematics` `Robotics` |
 | 🦾 **[Hybrid Robot Control](https://github.com/Lamiaehadi/Hybrid_robot_control)** | Autonomous pick-and-place mobile manipulator | `ROS2` `Nav2` `MoveIt2` `SLAM` `Ros2_control` |
 | 🏥 **[CuraVision AI](https://github.com/Mehdirben/curavisionai)** | AI-powered healthcare diagnostic app | `Flutter` `TensorFlow` `Firebase` |
 | 🏭 **[Factory Automation](https://github.com/Lamiaehadi/factory)** | Color sorting with robotic arm & conveyor | `Arduino` `C++` `Computer Vision` |
@@ -196,7 +185,7 @@
 
 <div align="center">
   
-### 🔭 ** Open to collaboration on robotics & autonomous systems projects! ✨💜🤖**
+### 🔭 Open to collaboration on robotics & autonomous systems projects! ✨💜🤖
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=2000&color=9C27B0&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%9C;Let's+build+the+future+of+robotics+together!+%F0%9F%A4%96" alt="Footer" />
 
