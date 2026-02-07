@@ -10,23 +10,25 @@
 
 ## 🎯 About Me
 
-<p align="left">
-  <em>Robotics & AI Engineering Student passionate about autonomous systems, mobile robotics, and developing intelligent solutions that bridge the gap between theory and real-world applications.</em>
-</p>
-
-<img align="right" alt="Lamiae Hadi - Robotics & AI" width="230" height="280" style="border-radius: 15px;" src="profile.png" />
-
-<div align="left">
-
-* 🔭 **Focus:** Autonomous mobile robots, multi-robot systems & fleet management
-
-* 🌱 **Currently learning:** Advanced ROS2, RTOS, Computer Vision & Fuzzy Logic
-
-* 🤖 **Interests:** SLAM, Navigation, Embedded AI & Human-Robot Interaction
-
-* 🎯 **Seeking:** Internship/PFA in Robotics, AI, or Embedded Systems
-
-* 📫 **Reach me:** <a href="mailto:lamiae14.hadi@gmail.com">lamiae14.hadi@gmail.com</a>
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <p align="left">
+        <em>Robotics & AI Engineering Student passionate about autonomous systems, mobile robotics, and developing intelligent solutions that bridge the gap between theory and real-world applications.</em>
+      </p>
+      <ul>
+        <li>🔭 <b>Focus:</b> Autonomous mobile robots, multi-robot systems & fleet management</li>
+        <li>🌱 <b>Currently learning:</b> Advanced ROS2, RTOS, Computer Vision & Fuzzy Logic</li>
+        <li>🤖 <b>Interests:</b> SLAM, Navigation, Embedded AI & Human-Robot Interaction</li>
+        <li>🎯 <b>Seeking:</b> Internship/PFA in Robotics, AI, or Embedded Systems</li>
+        <li>📫 <b>Reach me:</b> <a href="mailto:lamiae14.hadi@gmail.com">lamiae14.hadi@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="top">
+      <img src="profile.png" alt="Lamiae Hadi" width="300" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
