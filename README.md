@@ -30,7 +30,7 @@
   </tr>
 </table>
 
-<br/>
+<br/><br/>
 
 ## 🛠️ Tech Stack
 
