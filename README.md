@@ -14,7 +14,7 @@
   <em>Robotics & AI Engineering Student passionate about autonomous systems, mobile robotics, and developing intelligent solutions that bridge the gap between theory and real-world applications.</em>
 </p>
 
-<img align="right" alt="Robotics" width="200" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" alt="Lamiae Hadi - Robotics & AI" width="230" height="280" style="border-radius: 15px;" src="profile.png" />
 
 <div align="left">
 
@@ -95,52 +95,57 @@
 
 ## 🎓 Education & Experience
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🏫 Education
-**Euromed University of Fez** *(2024–Present)*  
-📚 State Engineer in **Robotics, Cobotics & AI**
 
-**Euromed University of Fez** *(2022–2024)*  
-🔬 Integrated Preparatory Cycle
+> 🎓 **State Engineer in Robotics, Cobotics & AI** — *Euromed University of Fez*  
+> 📅 2024 – Present  
+> Specialized curriculum covering autonomous systems, embedded AI, and cobotic integration.
 
-</td>
-<td width="50%">
+> 🔬 **Integrated Preparatory Cycle** — *Euromed University of Fez*  
+> 📅 2022 – 2024  
+> Foundational studies in mathematics, physics, and engineering sciences.
 
-### 💼 Experience
-**West Technology** *(Jul–Aug 2025)*  
-⚡ Electrical Design Internship  
-*SEE Electrical, NF C 15-100 standards*
+---
 
-**EIDIA / UEMF** *(July 2024)*  
-🤖 AI Systems Observation Internship  
-*Academic chatbot development*
+### 💼 Professional Experience
 
-</td>
-</tr>
-</table>
+> ⚡ **Electrical Design Intern** — *West Technology*  
+> 📅 Jul – Aug 2025  
+> - Designed electrical schematics using **SEE Electrical**  
+> - Applied **NF C 15-100** standards for installations  
+
+> 🤖 **AI Systems Observation Intern** — *EIDIA / UEMF*  
+> 📅 July 2024  
+> - Contributed to academic **chatbot development**  
+> - Explored AI system architectures and NLP pipelines
 
 ---
 
 ## 🏆 Leadership & Achievements
 
-<div align="center">
+### 🎯 Leadership Roles
 
-| 🎯 Role | 📍 Organization | 📌 Focus |
-|---------|-----------------|----------|
-| **Team Leader** 💜 | DIGI Club | Robotics/AI training, hackathons, tech conferences |
-| **Former Vice President** 💖 | HANDS Social Club | Medical caravans, fundraising, mentorship |
-| **Technical Speaker** 🎤 | High Schools | Robotics career workshops |
-| **Participant** 🏅 | MoroccoAI Hackathon | Developed CuraVision AI healthcare app |
+> 💜 **Team Leader** — *DIGI Club*  
+> - Organized **robotics & AI training sessions**, hackathons, and tech conferences  
+> - Led technical workshops and mentored junior members  
 
-</div>
+> 💖 **Former Vice President** — *HANDS Social Club*  
+> - Coordinated **medical caravans** and community outreach programs  
+> - Led fundraising campaigns and student mentorship initiatives  
+
+> 🎤 **Technical Speaker** — *High Schools*  
+> - Delivered **robotics career workshops** to inspire the next generation  
+
+> 🏅 **Hackathon Participant** — *MoroccoAI Hackathon*  
+> - Developed **CuraVision AI**, an AI-powered healthcare diagnostic app  
+
+---
 
 ### 📜 Certifications
-- 🎖️ **2025** — Roboverse Event, HANDS VP Recognition  
-- 🏅 **2024** — MoroccoAI Hackathon, TensorFlow Training, Mobile Robot Building  
-- 📜 **2021** — DALF C1 (Advanced French Diploma)
+
+> 🎖️ **2025** — Roboverse Event · HANDS VP Recognition  
+> 🏅 **2024** — MoroccoAI Hackathon · TensorFlow Training · Mobile Robot Building  
+> 📜 **2021** — DALF C1 (Advanced French Diploma)
 
 ---
 
