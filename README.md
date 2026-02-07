@@ -28,7 +28,7 @@
 
 * 📫 **Reach me:** <a href="mailto:lamiae14.hadi@gmail.com">lamiae14.hadi@gmail.com</a>
 
-<br/>
+<br/><br/>
 
 ## 🛠️ Tech Stack
 
